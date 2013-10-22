@@ -21,26 +21,7 @@
 		<script type="text/javascript" src="js/index.js"></script>
 	</head>
 	<body style="background:white;">
-		<div class="head">
-			<section style="background:rgb(100,200,255);">
-	  			<p style="text-align:center;color:rgb(50,50,50);font-family:Open Sans;font-size:50px;margin-top:150px;">Fast and Powerful</p>
-				<p style="text-align:center;color:rgb(10,10,10);font-family:Roboto Slab;font-size:20px;margin-top:100px;"></p>
-			</section>
-			<section style="background:rgb(255,200,100);">
-	  			<p style="text-align:center;color:rgb(50,50,50);font-family:Open Sans;font-size:50px;margin-top:150px;">Centralized Back Up</p>
-				<p style="text-align:center;color:rgb(10,10,10);font-family:Roboto Slab;font-size:20px;margin-top:100px;"></p>
-			</section>
-			<section style="background:rgb(100,255,200);">
-	  			<p style="text-align:center;color:rgb(50,50,50);font-family:Open Sans;font-size:50px;margin-top:150px;">A Complete Package</p>
-				<p style="text-align:center;color:rgb(10,10,10);font-family:Roboto Slab;font-size:20px;margin-top:100px;"></p>
-			</section>
-			<section style="background:rgb(200,255,100);">
-	  			<p style="text-align:center;color:rgb(50,50,50);font-family:Open Sans;font-size:50px;margin-top:150px;">Sharda Softwares</p>
-				<p style="text-align:center;color:rgb(10,10,10);font-family:Roboto Slab;font-size:20px;margin-top:100px;"></p>
-				<footer>
-					
-				</footer>
-			</section>
-		</div>
+  		<p style="text-align:center;color:rgb(100,100,100);font-family:Open Sans;font-size:50px;margin-top:150px;">Sharda Softwares</p>
+		<p style="text-align:center;color:rgb(10,10,10);font-family:Roboto Slab;font-size:20px;margin-top:100px;"></p>
 	</body>
 </html>
